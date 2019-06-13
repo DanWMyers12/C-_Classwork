@@ -1,0 +1,6 @@
+﻿  Source.cpp
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\class examples ch 4\class examples ch 4\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\class examples ch 4\class examples ch 4\source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\class examples ch 4\class examples ch 4\source.cpp(22): warning C4101: 'radius1': unreferenced local variable
+  class examples ch 4.vcxproj -> \\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\Projects\class examples ch 4\Debug\class examples ch 4.exe
+  class examples ch 4.vcxproj -> \\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\Projects\class examples ch 4\Debug\class examples ch 4.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\car e-value-ator\car e-value-ator\source.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\car e-value-ator\car e-value-ator\source.cpp(15): warning C4129: 'C': unrecognized character escape sequence
+  Car e-value-ator.vcxproj -> \\vdi-shares.net.ualr.edu\UEMProfiles\dwmyers\Documents\Visual Studio 2015\Projects\Car e-value-ator\Debug\Car e-value-ator.exe
+  Car e-value-ator.vcxproj -> \\vdi-shares.net.ualr.edu\UEMProfiles\dwmyers\Documents\Visual Studio 2015\Projects\Car e-value-ator\Debug\Car e-value-ator.pdb (Partial PDB)
