@@ -1,0 +1,6 @@
+﻿  Source.cpp
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\area vol calc\area vol calc\source.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\area vol calc\area vol calc\source.cpp(36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\area vol calc\area vol calc\source.cpp(40): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Area vol calc.vcxproj -> \\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\Projects\Area vol calc\Debug\Area vol calc.exe
+  Area vol calc.vcxproj -> \\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\Projects\Area vol calc\Debug\Area vol calc.pdb (Partial PDB)
