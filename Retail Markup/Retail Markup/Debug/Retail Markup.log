@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\vdi-shares.net.ualr.edu\uemprofiles\dwmyers\documents\visual studio 2015\projects\retail markup\retail markup\source.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Retail Markup.vcxproj -> \\vdi-shares.net.ualr.edu\UEMProfiles\dwmyers\Documents\Visual Studio 2015\Projects\Retail Markup\Debug\Retail Markup.exe
+  Retail Markup.vcxproj -> \\vdi-shares.net.ualr.edu\UEMProfiles\dwmyers\Documents\Visual Studio 2015\Projects\Retail Markup\Debug\Retail Markup.pdb (Partial PDB)

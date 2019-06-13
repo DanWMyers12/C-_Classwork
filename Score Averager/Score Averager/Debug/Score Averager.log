@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Score Averager.vcxproj -> E:\Visual Studio 2015\Projects\Score Averager\Debug\Score Averager.exe
+  Score Averager.vcxproj -> E:\Visual Studio 2015\Projects\Score Averager\Debug\Score Averager.pdb (Partial PDB)
